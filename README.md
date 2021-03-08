@@ -35,13 +35,13 @@ Watch the [Demo](https://youtu.be/7LEKQxTlra8)
 
 Go to [Frontend Repo](https://github.com/bahayg/recipe-app-frontend)
 
-## Support and Contact Details
+<!-- ## Support and Contact Details
 
-bahayg@gmail.com
+bahayg@gmail.com -->
 
-## License
+<!-- ## License
 
-Copyright (c) 2020 Bahay Gulle Bilgi.
+Copyright (c) 2020 Bahay Gulle Bilgi. -->
 
 <!-- This software is licenced under the MIT License. -->
 
